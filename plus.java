@@ -5,11 +5,9 @@ public class IntegerSubtractionExample1 {  
         int b = 35; 
       
         int subtraction = a-b;
-        int multiplication = a*b;
           
       
-        System.out.println("The subtraction of a and b is = " + subtraction);
-        System.out.println("The multiplication of a and b is = " + multiplication);   
+        System.out.println("The subtraction of a and b is = " + subtraction); 
       
          
     }  
